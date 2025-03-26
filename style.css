@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #0073e6;
+    color: white;
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+}
+
+form input, form button {
+    padding: 10px;
+    margin: 5px;
+    width: 80%;
+}
+
+footer {
+    background: #f1f1f1;
+    padding: 10px;
+}
+
